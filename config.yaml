@@ -1,0 +1,22 @@
+---
+id: groonga-document-read-3
+base_name: introduction
+tags:
+- rabbit
+- groonga
+presentation_date: 2014-07-23
+version: 2014.7.23.0
+licenses:
+- CC BY-SA 4.0
+slideshare_id: groonga-document-read-3
+speaker_deck_id: groongadokiyumentodu-shu-hui-3falsejin-mefang
+ustream_id: 
+vimeo_id: 
+youtube_id: 
+author:
+  markup_language: :rd
+  name: Kouhei Sutou
+  email: kou@clear-code.com
+  rubygems_user: kou
+  slideshare_user: kou
+  speaker_deck_user: kou
